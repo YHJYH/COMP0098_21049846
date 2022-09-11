@@ -1,7 +1,21 @@
 ```src/model.py``` needs to be updated before training with ```-model_type=vgg16_N```.
 
 # List of architectures
-- VGG12
+- [VGG12](https://github.com/YHJYH/COMP0098_21049846/blob/main/model_architecture.md#vgg12)
+- [VGG11]()
+- [VGG10]()
+- [VGG9]()
+- [VGG6A]()
+- [VGG8]()
+- [VGG7]()
+- [VGG15]()
+- [VGG14]()
+- [VGG13]()
+- [VGG12A]()
+- [VGG11A]()
+- [VGG8A]()
+- [VGG6]()
+- [VGG5]()
 
 
 ## VGG12

@@ -1,7 +1,9 @@
-# COMP0098_21049846
+# Deeper is Not Always Better
 The master thesis project for COMP0098 MSc Computational Statistics and Machine Learning ProjectURL
 
 This PyTorch code was used in the experiments of the thesis project:
+
+_Deeper is Not Always Better: A Method to Drastically Reduce Model Complexity While Retaining the Same Learned Features_
 
 The code is cleaned post-acceptance and may run into some errors. Although I did some quick check and saw the code ran fine, please create an issue if you encounter errors and I will try to fix them as soon as possible.
 

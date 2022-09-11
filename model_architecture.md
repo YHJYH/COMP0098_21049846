@@ -1,4 +1,4 @@
-```src/model.py``` needs to be updated before training with ```-model_type=vgg16_N```.
+```src/model.py``` needs to be updated before training with ```-model_type=vgg16_N``` in either ```train.py```, ```LTH_new.py```, or ```ckalth.py```.
 
 # List of architectures
 - [VGG12](https://github.com/YHJYH/COMP0098_21049846/blob/main/model_architecture.md#vgg12)

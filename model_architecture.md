@@ -2,7 +2,7 @@
 
 # List of architectures
 - [VGG12](https://github.com/YHJYH/COMP0098_21049846/blob/main/model_architecture.md#vgg12)
-- [VGG11]()
+- [VGG11](https://github.com/YHJYH/COMP0098_21049846/blob/main/model_architecture.md#vgg11)
 - [VGG10]()
 - [VGG9]()
 - [VGG6A]()

@@ -16,4 +16,8 @@ conda activate thesis_1
 ```
 
 ## Step 1: train the model
-
+To train a CKA-based model:
+```
+python train.py -mode=train -data_type=cifar10 -model_type=vgg16 -seed=13 -learning_rate=0.001 -momentum=0.9 -num_epoch=50 -patience=5
+```
+This will create a ```model/``` directory and a model file named ```train_model```. There are multiple arguments that need to be set, but the default setting is fine for VGG16. The settings used for other CKA models are commented in the code.

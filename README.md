@@ -14,3 +14,6 @@ We used two different datasets: [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar
 conda env create -f environment.yml
 conda activate thesis_1
 ```
+
+## Step 1: train the model
+

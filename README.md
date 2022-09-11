@@ -58,3 +58,6 @@ python ckalth.py -mode=train -data_type=cifar10 -model_type=vgg16 -seed=13 -lear
 This will create a ```output/<data_type>/``` directory and a model file named ```CL_features.pt```. There are multiple arguments that need to be set, but the default setting is fine for VGG16. The settings used for other CL models are commented in the code.
 
 If a specific CKA, LTH, or CL model needs to be used, change class ```VGG16_N```  in ```src/model.py```. The model architectures and results are given [here](https://github.com/YHJYH/COMP0098_21049846/blob/main/model_architecture.md#list-of-architectures).
+
+## Step 3: plot similarity matrix
+Open spyder, run ```similarity_plot.py```, and set arguments in pythono file manually.

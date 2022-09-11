@@ -1,5 +1,5 @@
 # Deeper is Not Always Better
-The master thesis project for COMP0098 MSc Computational Statistics and Machine Learning ProjectURL
+The master thesis project for COMP0098 MSc Computational Statistics and Machine Learning Project
 
 This PyTorch code was used in the experiments of the thesis project:
 
